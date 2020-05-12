@@ -21,6 +21,7 @@ public class Solution {
                 return false;
             }
         }
+
         return stack.isEmpty();
     }
 }
